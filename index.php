@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-	<h1 class="title">Upload de Ficheiros</h1>
+	<h1 class="title">Upload de Imagens</h1>
 
 	<form action="upload.php" method="post" enctype="multipart/form-data" name="cadatro">
 		Titulo do Ficheiro<input type="text" name="ficheiro">
