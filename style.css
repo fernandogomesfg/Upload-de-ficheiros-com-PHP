@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+
+}
+
+body{
+	box-sizing: border-box;
+	font-family: sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+form{
+	display: flex;
+	width: 300px;
+	height: 200px;
+	flex-direction: column;
+	justify-content: space-evenly;
+	margin: 0 auto;
+}
