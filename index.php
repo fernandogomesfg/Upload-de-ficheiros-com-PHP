@@ -11,8 +11,7 @@
 	<form action="upload.php" method="post" enctype="multipart/form-data" name="cadatro">
 		Titulo do Ficheiro<input type="text" name="ficheiro">
 		<input type="file" name="foto" accept='image/*'>
-		<input type="submit" name="cadastrar" value="Cadastrar">
-		
+		<input type="submit" name="cadastrar" value="Cadastrar">	
 	</form>
 
 </body>
