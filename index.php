@@ -14,5 +14,8 @@
 		<input type="submit" name="cadastrar" value="Cadastrar">	
 	</form>
 
+	<!--Chamando o arquivo para exibir ficheiros adicionados-->
+	<?php echo include_once('./exibirFicheiros.php');?>
+
 </body>
 </html>
